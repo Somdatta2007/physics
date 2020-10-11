@@ -1,0 +1,2 @@
+[1011/165823.137:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ASUS\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\ee37564b-c14f-4826-ba07-deb8c2163913: The system cannot find the path specified. (0x3)
+[1011/165823.141:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
